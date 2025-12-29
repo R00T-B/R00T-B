@@ -1,8 +1,15 @@
 <p align="center">
-  <img src="header.png" alt="R00T-B Kali Terminal Header" width="100%">
+  <img src="header.png" alt="R00T-B Kali Terminal Header" width="60%">
 </p>
 
-# 🖥️ [root@R00T-B ~]# access_granted --identity
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-00FF41?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-red?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+---
+
+### 🖥️ [root@R00T-B ~]# access_granted --identity
 
 ```bash
 ┌──(root💀R00T-B)-[~]
