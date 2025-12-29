@@ -1,7 +1,8 @@
-# 🖥️ [root@R00T-B ~]# access_granted --identity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/R00T-B/R00T-B/main/assets/kali-header.png" alt="Kali Linux Terminal Header">
+  <img src="header.png" alt="R00T-B Kali Terminal Header" width="100%">
 </p>
+
+# 🖥️ [root@R00T-B ~]# access_granted --identity
 
 ```bash
 ┌──(root💀R00T-B)-[~]
