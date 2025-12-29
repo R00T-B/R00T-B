@@ -4,7 +4,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-00FF41?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI ENGİNE-00FF41?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-red?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/WEB-ENCRYPTED-red?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ---
