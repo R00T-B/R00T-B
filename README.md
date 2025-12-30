@@ -1,5 +1,10 @@
 <p align="center">
   <img src="header.png" alt="R00T-B Kali Terminal Header" width="60%">
+  <p align="center">
+  <img src="https://img.shields.io/badge/SKILL-PENTESTING-00FF41?style=flat-square&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/SKILL-NETWORK_SECURITY-00FF41?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SKILL-SEO_STRATEGY-00FF41?style=flat-square&logo=google-cloud&logoColor=white" />
+</p>
 </p>
 
 <p align="center">
