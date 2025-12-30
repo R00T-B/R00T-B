@@ -54,9 +54,16 @@ Connection to R00T-B closed.
 
 ## 🛠️ Skills & Technologies
 
-Detaylı teknik yetkinliklerim için [SKILLS.md](SKILLS.md) dosyasına göz atın.
+For detailed technical skills, check out my [SKILLS.md](SKILLS.md) file.
 
-[![Skills Overview](https://img.shields.io/badge/View-Skills_Matrix-blue)](SKILLS.md)
+### Quick Overview:
+- **Python**: Security tools, automation
+- **Bash Scripting**: System administration  
+- **SQL**: Database security
+- **Kali Linux**: Penetration testing
+
+[View Full Skills Matrix](SKILLS.md)
+
 
 
 ### 📡 [SYSTEM_LOGS]: INCOMING_TRAFFIC
