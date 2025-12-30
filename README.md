@@ -51,3 +51,6 @@ Email: bbestepe47@gmail.com
 Link:(https://www.instagram.com/aydogdu1burak?igsh=MWNzczNsZHV5djI4cA%3D%3D&utm_source=qr)
 └─$ logout
 Connection to R00T-B closed.
+
+### 📡 [SYSTEM_LOGS]: INCOMING_TRAFFIC
+```bash connection_init: 192.168.1.104 bypass_success: authorization_granted r001B_Seo: module_loaded status: MONITORING_ACTIVE...
