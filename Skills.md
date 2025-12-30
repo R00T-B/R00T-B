@@ -44,3 +44,13 @@
 - ⏳ **Mobile Security** (Android/iOS)
 - ⏳ **Blockchain Security**
 - ⏳ **AI/ML in Cybersecurity**
+
+# Dosyayı ekle
+git add SKILLS.md
+
+# Commit yap
+git commit -m "📊 Add SKILLS.md documentation"
+
+# Push et
+git push origin main
+
