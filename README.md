@@ -52,5 +52,12 @@ Link:(https://www.instagram.com/aydogdu1burak?igsh=MWNzczNsZHV5djI4cA%3D%3D&utm_
 └─$ logout
 Connection to R00T-B closed.
 
+## 🛠️ Skills & Technologies
+
+Detaylı teknik yetkinliklerim için [SKILLS.md](SKILLS.md) dosyasına göz atın.
+
+[![Skills Overview](https://img.shields.io/badge/View-Skills_Matrix-blue)](SKILLS.md)
+
+
 ### 📡 [SYSTEM_LOGS]: INCOMING_TRAFFIC
 ```bash connection_init: 192.168.1.104 bypass_success: authorization_granted r001B_Seo: module_loaded status: MONITORING_ACTIVE...
